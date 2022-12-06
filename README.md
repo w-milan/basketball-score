@@ -1,2 +1,2 @@
-Preview:
-https://splendid-raindrop-29a63a.netlify.app
+# Preview
+https://w-basketball-score.netlify.app
